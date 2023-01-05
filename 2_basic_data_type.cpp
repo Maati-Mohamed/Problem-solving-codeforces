@@ -4,7 +4,7 @@ int main()
 {
     int a;
     long long b;
-    char c;
+    char c; 
     float d;
     double e;
     

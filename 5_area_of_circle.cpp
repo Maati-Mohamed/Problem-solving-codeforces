@@ -8,7 +8,7 @@ int main()
     cout << fixed << setprecision(9); // To print 9 digits after decimal point.
     double r, value;
     cin>>r;
-    value = 3.141592653 * (r*r);
+    value = 3.141592653 * (r*r); 
     cout<<value;
     return 0;
-}
+} 

@@ -6,7 +6,7 @@ int main()
     cin>>a>>b;
     if(a % b == 0 || b % a == 0){
         cout<<"Multiples";
-    } else{
+    } else{ 
         cout<<"No Multiples";
     }
     return 0;
